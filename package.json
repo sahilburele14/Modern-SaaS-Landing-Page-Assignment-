@@ -1,8 +1,7 @@
-
 {
-  "name": "modern-saas-landing-page-assignment-",
+  "name": "modern-saas-landing-page-assignment",
   "version": "1.0.0",
-  "homepage": "https://github.com/sahilburele14/Modern-SaaS-Landing-Page-Assignment-",
+  "homepage": "https://sahilburele14.github.io/Modern-SaaS-Landing-Page-Assignment-",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
