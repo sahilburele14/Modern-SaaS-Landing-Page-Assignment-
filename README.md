@@ -102,6 +102,7 @@ npm run deploy
 ```
 
 ## 📁 Project Structure
+```
 nexaflow-landing/
 ├── public/
 │   ├── index.html
@@ -184,7 +185,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Sahil Burele - sahilburele6789@gmail.com
 
 Project Link: [https://github.com/yourusername/nexaflow-landing](https://github.com/yourusername/nexaflow-landing)
 
@@ -197,5 +198,6 @@ Project Link: [https://github.com/yourusername/nexaflow-landing](https://github.
 ---
 
 ⭐ If you found this helpful, please give it a star!
+
 
 Built with ❤️ using React.js
