@@ -94,7 +94,16 @@ MIT License – free for personal or commercial use.
 📧 Contact
 👤 Sahil Burele  
 📩 Email: sahilburele6789@gmail.com
-🔗 Project Link: GitHub Repo
+🔗 Project Link: https://github.com/sahilburele14/Modern-SaaS-Landing-Page-Assignment-
 
 ⭐ If you found this helpful, please give it a star!
 Built with ❤️ using React.js  & TailwindCSS
+
+**Screenshot**
+<img width="925" height="850" alt="image" src="https://github.com/user-attachments/assets/6b79bb40-9cc3-4324-b99e-151447160132" />
+<img width="926" height="858" alt="image" src="https://github.com/user-attachments/assets/cfdd09d1-43cf-4e91-87af-a5c4690870f7" />
+<img width="935" height="876" alt="image" src="https://github.com/user-attachments/assets/1a5cb003-f7b2-452a-8c8d-48b37648376f" />
+<img width="931" height="864" alt="image" src="https://github.com/user-attachments/assets/f5e4b7db-2ee2-4af6-a396-7f5f431d028b" />
+<img width="934" height="857" alt="image" src="https://github.com/user-attachments/assets/62962f37-df69-4130-84fa-fb86fa5c8555" />
+<img width="930" height="862" alt="image" src="https://github.com/user-attachments/assets/cc1bce7c-7265-4b5e-8dc1-edd4c4ded69b" />
+
