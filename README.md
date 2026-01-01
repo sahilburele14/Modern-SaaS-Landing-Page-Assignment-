@@ -39,7 +39,7 @@ A modern, responsive SaaS landing page built with **React.js** and **Tailwind CS
 - npm or yarn
 
 ### Steps
-```bash
+bash
 # Clone the repository
 git clone https://github.com/sahilburele14/Modern-SaaS-Landing-Page-Assignment-.git
 cd Modern-SaaS-Landing-Page-Assignment-
@@ -106,4 +106,5 @@ Built with ❤️ using React.js  & TailwindCSS
 <img width="931" height="864" alt="image" src="https://github.com/user-attachments/assets/f5e4b7db-2ee2-4af6-a396-7f5f431d028b" />
 <img width="934" height="857" alt="image" src="https://github.com/user-attachments/assets/62962f37-df69-4130-84fa-fb86fa5c8555" />
 <img width="930" height="862" alt="image" src="https://github.com/user-attachments/assets/cc1bce7c-7265-4b5e-8dc1-edd4c4ded69b" />
+
 
